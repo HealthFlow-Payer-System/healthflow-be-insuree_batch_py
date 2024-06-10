@@ -24,7 +24,7 @@ setup(
         "djangorestframework",
         "openimis-be-location",
         "openimis-be-insuree",
-        "qrcode",
+        "qrcode~=7.3.1",
     ],
     classifiers=[
         "Environment :: Web Environment",
